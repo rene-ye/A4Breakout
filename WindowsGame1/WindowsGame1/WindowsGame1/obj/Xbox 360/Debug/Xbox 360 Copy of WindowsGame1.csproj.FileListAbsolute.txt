@@ -1,0 +1,10 @@
+C:\Users\René\Documents\Visual Studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\Xbox 360\Debug\Content\bar.xnb
+C:\Users\René\Documents\Visual Studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\Xbox 360\Debug\Content\ball.xnb
+C:\Users\René\Documents\Visual Studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\Xbox 360\Debug\Content\brick.xnb
+C:\Users\René\Documents\Visual Studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\Xbox 360\Debug\Content\myFont.xnb
+C:\Users\René\Documents\Visual Studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\Xbox 360\Debug\WindowsGame1.exe
+C:\Users\René\Documents\Visual Studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\Xbox 360\Debug\WindowsGame1.pdb
+C:\Users\René\Documents\Visual Studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\Xbox 360\Debug\Xbox 360 Copy of WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\René\Documents\Visual Studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\René\Documents\Visual Studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\Xbox 360\Debug\WindowsGame1.exe
+C:\Users\René\Documents\Visual Studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\Xbox 360\Debug\WindowsGame1.pdb
